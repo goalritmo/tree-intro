@@ -1,0 +1,30 @@
+{
+  "name": "Yendo al ritmo",
+  "bio": "de INTRO (Compu)",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://intro.goalritmo.com",
+  "blog": true,
+  "iconLinks": [],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "🎥 Clases Virtuales de Intro a Algo",
+      "url": "https://drive.google.com/drive/folders/108cHDfxR6g9tSBigam8uS-csomWAi44B"
+    },
+    {
+      "id": "1728534585739",
+      "title": "📄 Apuntes de Intro a Algo",
+      "url": "https://docs.google.com/document/d/18OGxQ-EQIarwKKR1GRuJlsCzmrCBGJ0BdPyJP1afewU/edit?usp=sharing"
+    },
+    {
+      "id": "1728534585740",
+      "title": "🗂 Presentaciones de Intro a Algo",
+      "url": "    https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=472&section=4#tabs-tree-start"
+    },
+    {
+      "id": "1728534585741",
+      "title": "🗓 Cronograma de Intro a Algo",
+      "url": "https://docs.google.com/document/d/18OGxQ-EQIarwKKR1GRuJlsCzmrCBGJ0BdPyJP1afewU/edit?usp=sharing"
+    }
+  ]
+}
